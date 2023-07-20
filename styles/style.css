@@ -139,3 +139,50 @@ body {
     cursor: pointer;
 
 }
+
+.box-4 {
+    text-align: center;
+}
+
+.input-box {
+    /* display: block; */
+    padding: 10px 20px;
+    border: 1px solid lightgray !important;
+    width: 250px;
+    margin-top: 10px;
+    border-radius: 8px;
+
+}
+
+.login-button {
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    padding: 10px 20px;
+    outline: none;
+    cursor: pointer;
+    margin-top: 20px;
+    border: none;
+
+
+}
+
+.sub-texts {
+    color: #5F6367;
+    margin-top: 10px;
+    font-size: 12px;
+
+}
+
+.sub-texts a {
+    color: #5F6367;
+    padding: 0px;
+    text-decoration: underline;
+}
+
+.forgot-password {
+    color: #5F6367;
+    text-decoration: underline;
+    margin-top: 20px;
+    font-size: 12px;
+}
