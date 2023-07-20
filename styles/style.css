@@ -153,6 +153,10 @@ body {
     border-radius: 8px;
 
 }
+.logo img {
+    height: 50px;
+
+}
 
 .login-button {
     background-color: black;
